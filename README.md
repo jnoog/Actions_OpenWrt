@@ -2,7 +2,7 @@
 
 lean https://github.com/coolsnowwolf/lede
 
-lienol https://github.com/Lienol/openwrt-package
+lienol https://github.com/Lienol/openwrt
 
 kenzok8 https://github.com/kenzok8/openwrt-packages
 
