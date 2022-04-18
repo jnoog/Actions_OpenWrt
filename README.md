@@ -12,6 +12,6 @@ Applications 插件说明 https://www.right.com.cn/forum/thread-344825-1-1.html
 
 KFERMercer https://github.com/KFERMercer/OpenWrt-CI
 
-[SuLingGG/OpenWrt-Rpi    Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project](https://github.com/SuLingGG/OpenWrt-Rpi)
+[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
-[klever1988/nanopi-openwrt    Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩](https://github.com/klever1988/nanopi-openwrt) 
+[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) 
