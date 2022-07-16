@@ -15,3 +15,5 @@ KFERMercer https://github.com/KFERMercer/OpenWrt-CI
 [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)
 
 [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) 
+
+[](https://op.supes.top/)    (https://supes.top/)
