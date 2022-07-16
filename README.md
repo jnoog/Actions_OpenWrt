@@ -16,4 +16,4 @@ KFERMercer https://github.com/KFERMercer/OpenWrt-CI
 
 [klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt) 
 
-[](https://op.supes.top/)    (https://supes.top/)
+https://op.supes.top/
